@@ -59,6 +59,18 @@
       "image": "https://cdn.shopify.com/s/files/1/0516/8968/5154/products/be-sweet-pink-rose-online_56_10538_l_2048x2048.jpg?v=1646265990",
       "price": "25",
       "id": 10
+    },
+    {
+      "name": "Classic Cactus",
+      "image": "https://www.nps.gov/nps-audiovideo/thumbnail/f44cf036-11f5-4608-ab84-f18ff602f6be.jpg",
+      "price": "1000",
+      "id": 11
+    },
+    {
+      "name": "Bird of Paradise",
+      "image": "https://www.thespruce.com/thmb/vE01i5kIhnC59On7xBjQRiRWulI=/4032x3024/filters:fill(auto,1)/how-to-grow-strelitzia-1902742-02-9a29230e65d345c59770a020bc7586a2.jpg",
+      "price": "1000",
+      "id": 12
     }
   ]
 }

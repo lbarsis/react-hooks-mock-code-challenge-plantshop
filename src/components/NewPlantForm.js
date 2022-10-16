@@ -38,6 +38,7 @@ function NewPlantForm({ plants, setPlants }) {
         image: '',
         price: ''
       })
+
     })
   }
 
@@ -60,7 +61,8 @@ function NewPlantForm({ plants, setPlants }) {
           onChange={handleChange}
         />
         <input
-          type="number"
+          type="currency"
+          pattern="^\$\d{1,3}(,\d{3})*(\.\d+)?$"
           name="price"
           step="0.01"
           placeholder="Price"
